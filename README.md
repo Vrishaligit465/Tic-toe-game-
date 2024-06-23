@@ -1,2 +1,3 @@
 # Tic-toe-game-
-My first Project
+My first Git Repository
+Author-Vrishali Tiwari
