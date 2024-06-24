@@ -1,5 +1,5 @@
 # Tic-toe-game-
-My first Git Repository
+My First Git Repository
 <br>
 Author-Vrishali Tiwari 
 
